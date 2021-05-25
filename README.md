@@ -1,1 +1,1 @@
-# 50-innovative-companies-Highchart
+# 50-innovative-company-list-Highchart
